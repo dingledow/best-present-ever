@@ -1,0 +1,25 @@
+#instafeed{
+  display: block;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.image{
+  position: relative;
+  width: 33.33%;
+  height: auto;
+  box-sizing: border-box;
+  padding: 12px;
+  display: inline-block;
+  margin-bottom: 80px;
+  vertical-align: top;
+}
+
+.image img{
+  width: 100%;
+  height: auto;
+}
+
+.caption{
+
+}
